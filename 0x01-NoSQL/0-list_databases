@@ -1,0 +1,2 @@
+// listing all dabases in MongoDB
+show dbs
